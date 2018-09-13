@@ -1,0 +1,19 @@
+{
+  "name": "lets-build-express",
+  "version": "1.0.0",
+  "description": "[tutorial](https://github.com/antsmartian/lets-build-express)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-flatten": "^2.1.1",
+    "merge-descriptors": "^1.0.1",
+    "methods": "^1.1.2",
+    "parseurl": "^1.3.2",
+    "setprototypeof": "^1.1.0"
+  }
+}
