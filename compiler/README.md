@@ -18,4 +18,8 @@ Just a play on knowing more about the comiler.
 
 - Python: Let’s Build A Simple Interpreter  
     - [tutorial](https://ruslanspivak.com/lsbasi-part1/)
-    - [notes](./build-a-simple-interpreter/README.md)
+    - [notes](./a-simple-interpreter/README.md)
+
+- C: Build your own Lisp
+    - [tutorial](http://www.buildyourownlisp.com/contents)
+    - [notes](./your-own-lisp/README.md)
