@@ -4,6 +4,10 @@
 
 # What I've picked up
 
-- [something about the compiler](./compiler)
+- [on the compiler](./compiler)
 
-- [something on socket to build a server](./web-server)
+- [on socket to build a server](./web-server)
+
+- [on LISP](./lisp)
+
+- [on Garbage Collector](./garbage-collector)
